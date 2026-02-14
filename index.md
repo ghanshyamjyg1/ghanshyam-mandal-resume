@@ -2,7 +2,8 @@
 <img src="profile.jpeg" width="120" height="120" style="border-radius: 50%; border: 3px solid #007acc;">
 ### Java Backend Developer | Banking & Payment Systems Specialist  
 
-📍 Hyderabad, India  
+📍 Hyderabad, India
+📞 +91 9593726242 
 📧 ghanshyamjyg1@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/ghanshyam-mandal/
 
